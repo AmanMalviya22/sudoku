@@ -1,5 +1,4 @@
 # vue-sudoku
-#
 A Sudoku game written in Vue and TypeScript, generator and solver based off of ["Solving Every Sudoku Puzzle"](http://norvig.com/sudoku.html) by Peter Norvig,
 
 ## Project setup
